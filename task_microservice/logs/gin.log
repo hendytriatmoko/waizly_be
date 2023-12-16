@@ -1,0 +1,471 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 15:17:05 | 200 |    164.9848ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create?nama_merk=test%20merk&gambar_merk=test%20gambar%20merk"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 15:58:57 | 500 |      1.9824ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create"
+[GIN] 2021/12/03 - 15:59:10 | 200 |    182.1611ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:03:19 | 200 |    137.2409ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:05:40 | 200 |    145.5786ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:06:17 | 200 |    146.4538ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:07:09 | 200 |    246.1511ms |       127.0.0.1 | POST     "/sellpump/api/merk/v1/create"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:25:24 | 200 |    143.6887ms |       127.0.0.1 | PUT      "/sellpump/api/merk/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:28:08 | 200 |       1.0505s |       127.0.0.1 | PUT      "/sellpump/api/merk/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/03 - 16:29:21 | 200 |    163.2118ms |       127.0.0.1 | PUT      "/sellpump/api/merk/v1/update"
+[GIN] 2021/12/03 - 16:30:01 | 200 |    666.6568ms |       127.0.0.1 | PUT      "/sellpump/api/merk/v1/update"
+[GIN] 2021/12/03 - 16:30:38 | 200 |    136.3674ms |       127.0.0.1 | PUT      "/sellpump/api/merk/v1/update"
+[GIN] 2021/12/03 - 17:23:05 | 200 |     95.3283ms |       127.0.0.1 | GET      "/sellpump/api/merk/photo/merk//gbr_baru_terbaru_nih.jpg"
+[GIN] 2021/12/03 - 17:23:14 | 200 |      1.9544ms |       127.0.0.1 | GET      "/sellpump/api/merk/photo///merk//gbr_baru_terbaru_nih.jpg"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> merk_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> merk_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/04 - 00:15:59 | 200 |     76.4927ms |       127.0.0.1 | GET      "/sellpump/api/merk/v1/getmerk"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> merk_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] DELETE /sellpump/api/merk/v1/delete --> merk_microservices/controllers.(*Merk).MerkDelete-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/04 - 00:18:16 | 200 |    142.2779ms |       127.0.0.1 | DELETE   "/sellpump/api/merk/v1/delete?id_merk=2"
+[GIN] 2021/12/04 - 00:18:30 | 200 |     86.0645ms |       127.0.0.1 | GET      "/sellpump/api/merk/v1/getmerk"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> merk_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] DELETE /sellpump/api/merk/v1/delete --> merk_microservices/controllers.(*Merk).MerkDelete-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2208
+[GIN] 2021/12/04 - 00:28:26 | 200 |     82.1774ms |       127.0.0.1 | GET      "/sellpump/api/merk/v1/getmerk"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> merk_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> merk_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> merk_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] DELETE /sellpump/api/merk/v1/delete --> merk_microservices/controllers.(*Merk).MerkDelete-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2203
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> task_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> task_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> task_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/delete --> task_microservices/controllers.(*Merk).MerkDelete-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2203
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /sellpump/api/merk/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /sellpump/api/merk/v1/getmerk --> task_microservices/controllers.(*Merk).GetDataMerk-fm (4 handlers)
+[GIN-debug] POST   /sellpump/api/merk/v1/create --> task_microservices/controllers.(*Merk).MerkCreate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/update --> task_microservices/controllers.(*Merk).MerkUpdate-fm (4 handlers)
+[GIN-debug] PUT    /sellpump/api/merk/v1/delete --> task_microservices/controllers.(*Merk).MerkDelete-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 02:48:49 | 200 |     74.5365ms |             ::1 | GET      "/waizly/api/task/v1/gettask"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:05:55 | 200 |    132.4673ms |             ::1 | POST     "/waizly/api/task/v1/create"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:17:55 | 200 |      1.0983ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:18:32 | 200 |       945.8µs |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:18:52 | 200 |        85.5µs |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:19:46 | 200 |      1.0688ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:21:05 | 200 |    122.9428ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:21:56 | 200 |    147.6952ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:22:24 | 200 |    131.7991ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:22:46 | 200 |     74.5132ms |             ::1 | GET      "/waizly/api/task/v1/gettask"
+[GIN] 2023/12/17 - 03:23:04 | 200 |    134.7424ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:23:34 | 200 |    128.1313ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:23:41 | 200 |    138.5073ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:23:55 | 200 |    129.9734ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:24:05 | 200 |    133.0903ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:24:27 | 200 |    147.2055ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:25:02 | 200 |    128.6071ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:25:14 | 200 |    130.6585ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:26:52 | 200 |    124.0838ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:27:33 | 200 |    136.0694ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:27:47 | 200 |    148.6142ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:29:14 | 200 |    135.2501ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:29:38 | 200 |    135.7269ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:33:23 | 200 |    151.3106ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:33:37 | 200 |    146.1347ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:33:45 | 200 |    136.4816ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (4 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (4 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (4 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN] 2023/12/17 - 03:35:23 | 200 |    132.6531ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN] 2023/12/17 - 03:35:31 | 200 |    305.0887ms |             ::1 | PUT      "/waizly/api/task/v1/update"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/task/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (5 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/task/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (5 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/task/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (5 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/task/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (5 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/task/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (5 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/task/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (5 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /waizly/api/task/photo/*filepath --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /waizly/api/task/v1/task/gettask --> task_microservices/controllers.(*Merk).GetDataTask-fm (5 handlers)
+[GIN-debug] POST   /waizly/api/task/v1/task/create --> task_microservices/controllers.(*Merk).TaskCreate-fm (5 handlers)
+[GIN-debug] PUT    /waizly/api/task/v1/task/update --> task_microservices/controllers.(*Merk).TaskUpdate-fm (5 handlers)
+[GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :2202

@@ -1,0 +1,17 @@
+{
+"port": ":2201",
+"enableGinConsoleLog": true,
+"enableGinFileLog": true,
+
+"logFilename": "logs/server.log",
+"logMaxSize": 10,
+"logMaxBackups": 10,
+"logMaxAge": 30,
+
+"db_addrs_waizly": "172.21.217.129",
+"db_addrs_waizly_public": "8.222.212.64",
+"db_port_waizly": "5432",
+"db_name_waizly": "waizly",
+"db_username_waizly": "postgres",
+"db_password_waizly": "inipostgres"
+}
