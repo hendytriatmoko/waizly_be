@@ -104,7 +104,7 @@ func main() {
 				taskEP.GET("/gettask", merk.GetDataTask)
 				taskEP.POST("/create", merk.TaskCreate)
 				taskEP.PUT("/update", merk.TaskUpdate)
-				taskEP.PUT("/delete", merk.TaskDelete)
+				taskEP.POST("/delete", merk.TaskDelete)
 			}
 		}
 
