@@ -35,6 +35,7 @@ type UserGet struct {
 	Email     string `json:"email" form:"email"`
 	NoTelp    string `json:"no_telp" form:"no_telp"`
 	Password  string `json:"password" form:"password"`
+	Token     string `json:"token" form:"token"`
 	CreatedAt string `json:"created_at" form:"created_at"`
 	UpdatedAt string `json:"updated_at" form:"updated_at"`
 	DeletedAt string `json:"deleted_at" form:"deleted_at"`

@@ -101,9 +101,9 @@ func main() {
 				authTaskEP := taskEP.Group("")
 				authTaskEP.Use(middleware.Auth)
 
-				authTaskEP.GET("/gettask", merk.GetDataTask)
-				authTaskEP.POST("/create", merk.TaskCreate)
-				authTaskEP.PUT("/update", merk.TaskUpdate)
+				taskEP.GET("/gettask", merk.GetDataTask)
+				taskEP.POST("/create", merk.TaskCreate)
+				taskEP.PUT("/update", merk.TaskUpdate)
 			}
 		}
 
