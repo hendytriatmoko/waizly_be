@@ -58,7 +58,7 @@ func (m *Merk) TaskGet(params models.GetTask) ([]models.TaskGet, error) {
 
 	user := []models.TaskGet{}
 
-	err := databases.DatabaseWaizly.DB.Table("tasks").Select("*").Order("created_at desc")
+	err := databases.DatabaseWaizly.DB.Table("tasks").Order("created_at desc")
 	if params.IdUser != "" {
 		err = err.Where("id_user = ?", params.IdUser)
 	}
