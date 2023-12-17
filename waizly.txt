@@ -1,0 +1,10 @@
+1. SELECT * FROM employees;
+2. SELECT COUNT(*) AS jumlah_manager FROM employees WHERE job_title = 'Manager';
+3. SELECT name, department, salary FROM employees WHERE department = 'Sales' OR department = 'Marketing';
+4. SELECT AVG(salary) as rata_rata_gaji_5_tahun_terakhir from employees WHERE joined_date > CURRENT_DATE - INTERVAL '5 years';
+5. SELECT a.employee_id, a.name, COALESCE(SUM(b.sales), 0) AS total_sales FROM employees a INNER JOIN sales_data b ON a.employee_id::varchar = b.employee_id GROUP BY a.employee_id, a.name ORDER BY total_sales DESC LIMIT 5;
+6. WITH AvgSalaryPerDepartment AS ( SELECT department, AVG(salary) AS avg_department_salary FROM employees GROUP BY department )
+   SELECT e.name, e.salary, avg_department_salary, (SELECT AVG(salary) FROM employees) AS avg_all_employees_salary FROM employees e INNER JOIN AvgSalaryPerDepartment avg_dept ON e.department = avg_dept.department WHERE avg_dept.avg_department_salary > (SELECT AVG(salary) FROM employees);
+7. WITH SalesTotal AS ( SELECT a.employee_id, a.name, COALESCE(SUM(b.sales), 0) AS total_penjualan FROM employees a INNER JOIN sales_data b ON a.employee_id::varchar = b.employee_id GROUP BY a.employee_id, a.name )
+   SELECT employee_id, name, total_penjualan, RANK() OVER (ORDER BY total_penjualan DESC) AS ranking FROM SalesTotal ORDER BY total_penjualan DESC;
+8. 
