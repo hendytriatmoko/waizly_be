@@ -66,7 +66,7 @@ type TaskGet struct {
 	CreatedAt string `json:"created_at" form:"created_at"`
 }
 
-type DeleteMerk struct {
-	IdMerk    string `json:"id_merk" form:"id_merk"`
+type DeleteTask struct {
+	IdTask    string `json:"id_task" form:"id_task"`
 	DeletedAt string `json:"deleted_at" form:"deleted_at"`
 }

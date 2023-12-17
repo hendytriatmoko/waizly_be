@@ -93,18 +93,18 @@ func (m *Merk) TaskGet(params models.GetTask) ([]models.TaskGet, error) {
 	return user, nil
 }
 
-//func (m *Merk) MerkDelete(params models.DeleteMerk) (models.DeleteMerk, error) {
-//
-//	merk := models.DeleteMerk{}
-//
-//	merk.DeletedAt = m.helper.GetTimeNow()
-//
-//	err := databases.DatabaseSellPump.DB.Table("merk").Where("id_merk = ?", params.IdMerk).Update(&merk).Error
-//
-//	if err != nil {
-//		return models.DeleteMerk{}, err
-//	}
-//
-//	return merk, nil
-//
-//}
+func (m *Merk) TaskDelete(params models.DeleteTask) (models.DeleteTask, error) {
+
+	task := models.DeleteTask{}
+
+	task.DeletedAt = m.helper.GetTimeNow()
+
+	err := databases.DatabaseWaizly.DB.Table("tasks").Where("id_task = ?", params.IdTask).Update(&task).Error
+
+	if err != nil {
+		return models.DeleteTask{}, err
+	}
+
+	return task, nil
+
+}
